@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=CSE+Undergraduat;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=CSE+Undergraduate;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4680-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
