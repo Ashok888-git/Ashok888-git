@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Illustration" />
 
-🎓 B.Tech CSE Student, Viswam Engineering College (3rd Year – 1st Semester)
+🎓 B.Tech CSE Student, Viswam Engineering College
 🚀 Actively exploring Artificial Intelligence & Machine Learning
 🏆 Core Member, Viswam Innovation and Entrepreneurship Hub
 
