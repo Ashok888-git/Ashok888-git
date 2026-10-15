@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=CSE+Undergraduate;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=CSE+Undergraduat;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4680-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -33,7 +33,6 @@
 - Artificial Intelligence & Machine Learning
 
 💡 Interests:
-- Full Stack Development
 - Problem Solving
 - AI/ML
 
@@ -71,8 +70,6 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
         <br />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
       </div>
     </td>
     <td width="50%">
